@@ -1,1 +1,1 @@
-# Libreta-de-calificaciones-hojas-impresas-
+# Libreta de calificaciones (hojas impresas)
